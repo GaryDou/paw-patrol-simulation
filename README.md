@@ -37,10 +37,6 @@ Fairy penguins on Phillip Island face threats from both land and sea predators, 
    - The female penguin always encounters predators first. Although this reduces randomness, it simplifies the simulation process.  
    - To avoid counting the same animal multiple times as dead, two boolean fields are used for each animal to track their alive status.  
 
-### Code References
-- **FileIO Class:** Uses techniques demonstrated by Tutor Peter Chen for file reading and writing.  
-- **PenguinFamily Class:** Uses ID generation logic adapted from applied class examples.  
-
 ---
 
 ## Technologies Used 💻
