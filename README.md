@@ -41,7 +41,6 @@ Fairy penguins on Phillip Island face threats from both land and sea predators, 
 
 ## Technologies Used 💻
 - **Programming Language:** Java  
-- **Development Environment:** Ed Platform (Monash University)  
 - **Object-Oriented Concepts:** Encapsulation, abstraction, polymorphism  
 - **Data Structures:** Arrays, ArrayLists  
 - **File Handling:** Reads initial data from `colony.txt` and writes results to `colonyFinal.txt`  
