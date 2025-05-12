@@ -128,6 +128,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 - **Redistribute** the project or any derivative works.  
 
 For more details, see the [Creative Commons License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Paw Patrol for Penguins © 2025 by Zhenyao Dou is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
 
 
 ---
